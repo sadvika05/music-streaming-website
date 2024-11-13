@@ -17,6 +17,3 @@ Languages/Skills used:
 3. JavaScript
 4. PHP
 5. MYSQL
-6. AJAX
-7. jQuery
-8. JSON
